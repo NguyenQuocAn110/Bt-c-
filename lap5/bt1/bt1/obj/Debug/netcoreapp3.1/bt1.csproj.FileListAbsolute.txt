@@ -1,0 +1,14 @@
+D:\bt code\lap5\bt1\bt1\bin\Debug\netcoreapp3.1\bt1.exe
+D:\bt code\lap5\bt1\bt1\bin\Debug\netcoreapp3.1\bt1.deps.json
+D:\bt code\lap5\bt1\bt1\bin\Debug\netcoreapp3.1\bt1.runtimeconfig.json
+D:\bt code\lap5\bt1\bt1\bin\Debug\netcoreapp3.1\bt1.runtimeconfig.dev.json
+D:\bt code\lap5\bt1\bt1\bin\Debug\netcoreapp3.1\bt1.dll
+D:\bt code\lap5\bt1\bt1\bin\Debug\netcoreapp3.1\bt1.pdb
+D:\bt code\lap5\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.csproj.AssemblyReference.cache
+D:\bt code\lap5\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.GeneratedMSBuildEditorConfig.editorconfig
+D:\bt code\lap5\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.AssemblyInfoInputs.cache
+D:\bt code\lap5\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.AssemblyInfo.cs
+D:\bt code\lap5\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.csproj.CoreCompileInputs.cache
+D:\bt code\lap5\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.dll
+D:\bt code\lap5\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.pdb
+D:\bt code\lap5\bt1\bt1\obj\Debug\netcoreapp3.1\bt1.genruntimeconfig.cache
